@@ -6,12 +6,9 @@
 - 💼 I'm working at Hawassa University as a Software Programmer since January 2020
 - 💞️ I’m looking to collaborate with any one who needs me to be a part of his/her software project
 ### ✅ My work
-- [CForecast](https://github.com/yitbehisbro/CForecast)
-- [Pretty JSON](https://github.com/yitbehisbro/pretty_json)
+- [CForecast](https://github.com/yitbehisbro/CForecast) | [Pretty JSON](https://github.com/yitbehisbro/pretty_json)
 ### 📫 Reach me at:   
-- [Telegram](https://t.me/isYitbe)    
-- [LinkedIn](https://www.linkedin.com/in/yitbewendimu)
-- [Twitter](https://twitter.com/WendimuYitbarek)
+- [Telegram](https://t.me/isYitbe) | [LinkedIn](https://www.linkedin.com/in/yitbewendimu) | [Twitter](https://twitter.com/WendimuYitbarek)
 
 <!---
 yitbehisbro/yitbehisbro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
